@@ -1,3 +1,4 @@
 # CST221
 # Athena Plascencia
-# GitHub Repository
+# Computer Programmer
+# GCU 2020
